@@ -1,0 +1,5 @@
+R1=int(input("R1 = "))
+R2=int(input("R2 = "))
+R3=int(input("R3 = "))
+R=(1/R1)+(1/R2)+(1/R3)
+print(f"R= {R}")
